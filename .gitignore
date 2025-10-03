@@ -1,0 +1,15 @@
+# Python venvs
+venv/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local config/secrets
+.env
+.env.*
+*.env
